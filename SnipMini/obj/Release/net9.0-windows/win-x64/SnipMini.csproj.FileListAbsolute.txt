@@ -1,0 +1,14 @@
+C:\Projeler\SnipMini\SnipMini\bin\Release\net9.0-windows\win-x64\SnipMini.exe
+C:\Projeler\SnipMini\SnipMini\bin\Release\net9.0-windows\win-x64\SnipMini.deps.json
+C:\Projeler\SnipMini\SnipMini\bin\Release\net9.0-windows\win-x64\SnipMini.runtimeconfig.json
+C:\Projeler\SnipMini\SnipMini\bin\Release\net9.0-windows\win-x64\SnipMini.dll
+C:\Projeler\SnipMini\SnipMini\bin\Release\net9.0-windows\win-x64\SnipMini.pdb
+C:\Projeler\SnipMini\SnipMini\obj\Release\net9.0-windows\win-x64\SnipMini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\SnipMini\SnipMini\obj\Release\net9.0-windows\win-x64\SnipMini.AssemblyInfoInputs.cache
+C:\Projeler\SnipMini\SnipMini\obj\Release\net9.0-windows\win-x64\SnipMini.AssemblyInfo.cs
+C:\Projeler\SnipMini\SnipMini\obj\Release\net9.0-windows\win-x64\SnipMini.csproj.CoreCompileInputs.cache
+C:\Projeler\SnipMini\SnipMini\obj\Release\net9.0-windows\win-x64\SnipMini.dll
+C:\Projeler\SnipMini\SnipMini\obj\Release\net9.0-windows\win-x64\refint\SnipMini.dll
+C:\Projeler\SnipMini\SnipMini\obj\Release\net9.0-windows\win-x64\SnipMini.pdb
+C:\Projeler\SnipMini\SnipMini\obj\Release\net9.0-windows\win-x64\SnipMini.genruntimeconfig.cache
+C:\Projeler\SnipMini\SnipMini\obj\Release\net9.0-windows\win-x64\ref\SnipMini.dll

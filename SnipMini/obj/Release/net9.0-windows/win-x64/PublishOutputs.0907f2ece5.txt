@@ -1,0 +1,2 @@
+C:\Projeler\SnipMini\SnipMini\bin\Release\net9.0-windows\win-x64\publish\SnipMini.pdb
+C:\Projeler\SnipMini\SnipMini\bin\Release\net9.0-windows\win-x64\publish\SnipMini.exe

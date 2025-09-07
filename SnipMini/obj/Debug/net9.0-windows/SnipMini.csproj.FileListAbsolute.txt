@@ -1,0 +1,14 @@
+C:\Projeler\SnipMini\SnipMini\bin\Debug\net9.0-windows\SnipMini.exe
+C:\Projeler\SnipMini\SnipMini\bin\Debug\net9.0-windows\SnipMini.deps.json
+C:\Projeler\SnipMini\SnipMini\bin\Debug\net9.0-windows\SnipMini.runtimeconfig.json
+C:\Projeler\SnipMini\SnipMini\bin\Debug\net9.0-windows\SnipMini.dll
+C:\Projeler\SnipMini\SnipMini\bin\Debug\net9.0-windows\SnipMini.pdb
+C:\Projeler\SnipMini\SnipMini\obj\Debug\net9.0-windows\SnipMini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\SnipMini\SnipMini\obj\Debug\net9.0-windows\SnipMini.AssemblyInfoInputs.cache
+C:\Projeler\SnipMini\SnipMini\obj\Debug\net9.0-windows\SnipMini.AssemblyInfo.cs
+C:\Projeler\SnipMini\SnipMini\obj\Debug\net9.0-windows\SnipMini.csproj.CoreCompileInputs.cache
+C:\Projeler\SnipMini\SnipMini\obj\Debug\net9.0-windows\SnipMini.dll
+C:\Projeler\SnipMini\SnipMini\obj\Debug\net9.0-windows\refint\SnipMini.dll
+C:\Projeler\SnipMini\SnipMini\obj\Debug\net9.0-windows\SnipMini.pdb
+C:\Projeler\SnipMini\SnipMini\obj\Debug\net9.0-windows\SnipMini.genruntimeconfig.cache
+C:\Projeler\SnipMini\SnipMini\obj\Debug\net9.0-windows\ref\SnipMini.dll
